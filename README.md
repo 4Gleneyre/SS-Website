@@ -1,0 +1,2 @@
+# SS-Website
+GitHub Pages
