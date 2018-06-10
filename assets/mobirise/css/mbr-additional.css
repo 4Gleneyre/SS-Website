@@ -1423,7 +1423,13 @@ body {
 .cid-qT0XVokF3A {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #cc2952;
+  background-image: url("../../../assets/images/mbr-1-1620x1080.jpg");
+}
+.cid-qT0XVokF3A .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-qT0XVokF3A H2 {
+  color: #232323;
 }
 .cid-qT0YdT7eP2 {
   padding-top: 60px;
