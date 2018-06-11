@@ -1376,12 +1376,12 @@ body {
   background-image: url("../../../assets/images/o-bill-gates-smiling-facebook-2000x1000.jpg");
 }
 .cid-qSYVeRPWAL H1 {
-  text-align: center;
+  text-align: left;
 }
 .cid-qSYXNbvy5U {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/abstract-architecture-art-370717-2000x1333.jpg");
+  background-image: url("../../../assets/images/bill-gates-2-1280x848.jpg");
 }
 .cid-qSYXNbvy5U .card-box {
   padding: 0 2rem;
@@ -1426,13 +1426,16 @@ body {
 .cid-qT0XVokF3A {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1-1620x1080.jpg");
+  background-image: url("../../../assets/images/computer-1873831-1920-1920x1054.png");
 }
 .cid-qT0XVokF3A .mbr-section-subtitle {
   color: #232323;
 }
 .cid-qT0XVokF3A H2 {
-  color: #232323;
+  color: #ffffff;
+}
+.cid-qT0XVokF3A .mbr-section-subtitle B {
+  color: #ffffff;
 }
 .cid-qUCNFClu3j {
   padding-top: 30px;
@@ -1460,11 +1463,14 @@ body {
 .cid-qT0YdT7eP2 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-qT0YdT7eP2 .mbr-text,
 .cid-qT0YdT7eP2 blockquote {
   color: #767676;
+}
+.cid-qT0YdT7eP2 .mbr-text P {
+  color: #232323;
 }
 .cid-qUCQntbQXY {
   padding-top: 30px;
@@ -1492,7 +1498,7 @@ body {
 .cid-qUCQSNGHq3 {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #f9f5c2;
+  background-color: #ffffff;
 }
 .cid-qUCQSNGHq3 .mbr-text,
 .cid-qUCQSNGHq3 blockquote {
@@ -1520,51 +1526,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-qUiPHZkbvi {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/abstract-architecture-art-370717-2000x1333.jpg");
-}
-.cid-qUiPHZkbvi .card-box {
-  padding: 0 2rem;
-}
-.cid-qUiPHZkbvi .mbr-section-btn {
-  padding-top: 1rem;
-}
-.cid-qUiPHZkbvi .mbr-section-btn a {
-  margin-top: 1rem;
-  margin-bottom: 0;
-}
-.cid-qUiPHZkbvi h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-qUiPHZkbvi p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-qUiPHZkbvi .mbr-text {
-  color: #767676;
-}
-.cid-qUiPHZkbvi .card-wrapper {
-  height: 100%;
-  padding-bottom: 2rem;
-  background: #efefef;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-qUiPHZkbvi .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-qT0Xh0Fwuq {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
 .cid-qUCXstdk1y {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1573,4 +1534,119 @@ body {
 .cid-qUCXstdk1y .mbr-section-subtitle {
   color: #767676;
   text-align: left;
+}
+.cid-qUD5CjscJ8 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/170207151634-bill-gates-5-full-169-1600x900.jpg");
+}
+.cid-qUD5CjscJ8 .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-qUD5CjscJ8 H2 {
+  color: #ffffff;
+}
+.cid-qUD5CjscJ8 .mbr-section-subtitle B {
+  color: #ffffff;
+}
+.cid-qUD6hl2rIV {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qUD6hl2rIV .line {
+  background-color: #232323;
+  color: #232323;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qUD6hl2rIV .section-text {
+  padding: 2rem 0;
+}
+.cid-qUD6hl2rIV .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qUD6hl2rIV .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qUD69omR58 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qUD69omR58 .mbr-text,
+.cid-qUD69omR58 blockquote {
+  color: #767676;
+}
+.cid-qUD69omR58 .mbr-text P {
+  color: #232323;
+}
+.cid-qUD82VKKUC {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qUD82VKKUC .line {
+  background-color: #232323;
+  color: #232323;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qUD82VKKUC .section-text {
+  padding: 2rem 0;
+}
+.cid-qUD82VKKUC .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qUD82VKKUC .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qUD8rlvlcL {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qUD8rlvlcL .mbr-text,
+.cid-qUD8rlvlcL blockquote {
+  color: #767676;
+}
+.cid-qUD8rlvlcL .mbr-text P {
+  color: #232323;
+}
+.cid-qUD9SRNAjg {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qUD9SRNAjg .mbr-text,
+.cid-qUD9SRNAjg blockquote {
+  color: #767676;
+}
+.cid-qUD9SRNAjg SPAN {
+  color: #2e2e2e;
+}
+.cid-qUDaWEWBJW {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #dbd4b8, #25aab2);
+}
+.cid-qUDaWEWBJW .main {
+  flex-direction: row-reverse;
+}
+.cid-qUDaWEWBJW .main .mbr-section-btn {
+  text-align: right;
+}
+.cid-qUDaWEWBJW .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qT0Xh0Fwuq {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
