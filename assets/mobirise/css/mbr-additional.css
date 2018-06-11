@@ -1373,7 +1373,10 @@ body {
   display: none;
 }
 .cid-qSYVeRPWAL {
-  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+  background-image: url("../../../assets/images/o-bill-gates-smiling-facebook-2000x1000.jpg");
+}
+.cid-qSYVeRPWAL H1 {
+  text-align: center;
 }
 .cid-qSYXNbvy5U {
   padding-top: 90px;
@@ -1437,8 +1440,8 @@ body {
   background-color: #ffffff;
 }
 .cid-qUCNFClu3j .line {
-  background-color: #149dcc;
-  color: #149dcc;
+  background-color: #2e2e2e;
+  color: #2e2e2e;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1456,8 +1459,8 @@ body {
 }
 .cid-qT0YdT7eP2 {
   padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+  padding-bottom: 30px;
+  background-color: #efefef;
 }
 .cid-qT0YdT7eP2 .mbr-text,
 .cid-qT0YdT7eP2 blockquote {
@@ -1469,8 +1472,8 @@ body {
   background-color: #ffffff;
 }
 .cid-qUCQntbQXY .line {
-  background-color: #149dcc;
-  color: #149dcc;
+  background-color: #232323;
+  color: #232323;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1489,11 +1492,14 @@ body {
 .cid-qUCQSNGHq3 {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #f9f5c2;
 }
 .cid-qUCQSNGHq3 .mbr-text,
 .cid-qUCQSNGHq3 blockquote {
   color: #767676;
+}
+.cid-qUCQSNGHq3 SPAN {
+  color: #2e2e2e;
 }
 .cid-qT0ZWj9nAW {
   padding-top: 0px;
@@ -1559,8 +1565,12 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-qT0Xh0Fwuq {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
+.cid-qUCXstdk1y {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qUCXstdk1y .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
 }
